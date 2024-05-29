@@ -39,6 +39,8 @@ We implemented a `LLMModel` class that includes the common code for each LLM. Th
 Is as simple as running the notebooks until the end. Each notebook has an explanation of the cell and comments in the code, however feel free to contact us for any questions and changes.
 Currently the notebooks already contain the paths based on this repository file system, so you shouldn't have to change the paths, unless you want to store the datasets in different paths. Also, be aware that the first configurations are intended in case you run it in Colab, but if you are running in a different environment or local you might need to edit the first cell of each notebook.
 
+Furthermore, you will see that in the first cell there is a string `your_path`, as you can guess you should put in there: `your_path/HalluDetect`and you shouldn't have to change anything on the notebooks, besides any other experiments you want to do.
+
 # Reference
 
 

@@ -42,6 +42,14 @@ Currently the notebooks already contain the paths based on this repository file 
 Furthermore, you will see that in the first cell there is a string `your_path`, as you can guess you should put in there: `your_path/HalluDetect`and you shouldn't have to change anything on the notebooks, besides any other experiments you want to do.
 
 # Reference
+```
+@inproceedings{Quevedo2024DetectingHI,
+  title={Detecting Hallucinations in Large Language Model Generation: A Token Probability Approach},
+  author={Ernesto Quevedo and Jorge Yero and Rachel Koerner and Pablo Rivas and Tomas Cerny},
+  year={2024},
+  url={https://api.semanticscholar.org/CorpusID:270123170}
+}
+```
 
 
 
